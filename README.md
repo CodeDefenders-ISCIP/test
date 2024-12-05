@@ -209,10 +209,10 @@
 
 ## Як це виглядає
 ### Відео
-Детальний огляд роботи системи можна переглянути в ролику на YouTube:
+Детальний огляд роботи системи можна переглянути 
+[в ролику на YouTube:](https://youtu.be/OSnqAyBP9eQ)
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/OSnqAyBP9eQ/0.jpg)](https://youtu.be/OSnqAyBP9eQ "# MissInfoAggregator CodeDefenders OSINT Automation Hackathon presentation")
 
-Детальний огляд роботи системи можна переглянути в ролику на YouTube за [посиланням ](https://youtu.be/OSnqAyBP9eQ)
 
 ### Скріншоти
 ![Основне вікно](https://drive.google.com/uc?id=11bEHzq3gEgTUrVkCWpzHLlXG5YJPwQMR)
